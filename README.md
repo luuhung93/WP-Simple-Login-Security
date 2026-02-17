@@ -39,8 +39,13 @@ Simple Login Security is a lightweight WordPress plugin that adds TOTP two-facto
 
 ## Screenshots
 
-- `screenshot-1.png`: 2FA setup popup
-- `screenshot-2.png`: Turnstile enabled on login
+### 2FA Setup Popup
+
+![2FA Setup Popup](screenshot-1.png)
+
+### Turnstile On Login
+
+![Turnstile On Login](screenshot-2.png)
 
 ## Security Notes
 
