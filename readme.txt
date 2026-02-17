@@ -1,8 +1,8 @@
 === Simple Login Security ===
-Contributors: tpv3
+Contributors: luuhung93
 Tags: 2fa, two-factor authentication, login security, otp, totp, turnstile
 Requires at least: 6.0
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 7.4
 Stable tag: 1.3.0
 License: GPLv2 or later

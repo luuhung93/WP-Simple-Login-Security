@@ -3,7 +3,10 @@
 Plugin Name: Simple Login Security
 Description: Lightweight TOTP 2FA for wp-login. Includes modal setup with QR and one-time backup codes.
 Version: 1.3.0
-Author: TPV3
+Author: luuhung93
+Author URI: https://github.com/luuhung93/WP-Simple-Login-Security
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: simple-login-security
 Domain Path: /languages
 */
